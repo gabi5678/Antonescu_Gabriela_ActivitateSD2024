@@ -1,0 +1,6 @@
+﻿  Seminar5.c
+D:\CSIE an 2\sem 2\SDD\Seminar5\Seminar5\Seminar5.c(24,47): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar5\Seminar5\Seminar5.c(25,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar5\Seminar5\Seminar5.c(111,56): warning C4305: 'function': truncation from 'double' to 'float'
+D:\CSIE an 2\sem 2\SDD\Seminar5\Seminar5\Seminar5.c(75): warning C4715: 'numeCafeneaDensitateMinima': not all control paths return a value
+  Seminar5.vcxproj -> D:\CSIE an 2\sem 2\SDD\Seminar5\x64\Debug\Seminar5.exe

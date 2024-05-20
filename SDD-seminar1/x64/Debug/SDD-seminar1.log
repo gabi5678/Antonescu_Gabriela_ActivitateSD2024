@@ -1,0 +1,5 @@
+﻿  SDD-seminar1.c
+C:\Users\Gabi\Desktop\po\SDD-seminar1\SDD-seminar1.c(17,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gabi\Desktop\po\SDD-seminar1\SDD-seminar1.c(19,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gabi\Desktop\po\SDD-seminar1\SDD-seminar1.c(62,60): warning C4305: 'function': truncation from 'double' to 'float'
+  SDD-seminar1.vcxproj -> C:\Users\Gabi\Desktop\po\SDD-seminar1\x64\Debug\SDD-seminar1.exe

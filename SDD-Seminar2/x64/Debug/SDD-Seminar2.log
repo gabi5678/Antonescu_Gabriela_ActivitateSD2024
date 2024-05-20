@@ -1,0 +1,6 @@
+﻿  SDD-Seminar2.c
+C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\Antonescu_Gabriela_ActivitateSD2024\SDD-Seminar2\SDD-Seminar2.c(13,49): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\Antonescu_Gabriela_ActivitateSD2024\SDD-Seminar2\SDD-Seminar2.c(14,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\Antonescu_Gabriela_ActivitateSD2024\SDD-Seminar2\SDD-Seminar2.c(115,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\Antonescu_Gabriela_ActivitateSD2024\SDD-Seminar2\SDD-Seminar2.c(135,58): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  SDD-Seminar2.vcxproj -> C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\Antonescu_Gabriela_ActivitateSD2024\SDD-Seminar2\x64\Debug\SDD-Seminar2.exe
