@@ -1,0 +1,3 @@
+﻿  Seminar13.c
+C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\git_bun\Antonescu_Gabriela_ActivitateSD2024\Seminar13\Seminar13.c(65,12): warning C4047: '=': 'NodSecundar **' differs in levels of indirection from 'NodSecundar *'
+  Seminar13.vcxproj -> C:\Users\Gabi\Desktop\ase\an 2 sem 2\SDD\git_bun\Antonescu_Gabriela_ActivitateSD2024\Seminar13\x64\Debug\Seminar13.exe
